@@ -1,0 +1,8 @@
+com\hulk\kafkaDemo\consumer\KafkaConsumerConfig.class
+com\hulk\kafkaDemo\productor\kafkaProducer.class
+com\hulk\kafkaDemo\starter\FirstStarter.class
+com\hulk\kafkaDemo\productor\kafkaProducer$1.class
+com\hulk\kafkaDemo\KafkaDemoApplication.class
+com\hulk\kafkaDemo\productor\KafkaProducerConfig.class
+com\hulk\kafkaDemo\DataUtil\JavaSerializer.class
+com\hulk\kafkaDemo\consumer\KafkaConsumer.class
