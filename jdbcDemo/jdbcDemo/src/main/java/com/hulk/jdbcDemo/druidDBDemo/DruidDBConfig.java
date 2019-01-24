@@ -55,7 +55,7 @@ public class DruidDBConfig {
 
     @Bean(name = "DruidDataSource")
     public DataSource dataSource() {
-        DruidDataSource datasource = new DataSource();
+        DruidDataSource datasource = new DruidDataSource();
         datasource.setUrl(jdbcUrl);
         datasource.setUsername(username);
         datasource.setPassword(password);
